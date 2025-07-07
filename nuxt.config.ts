@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      url: 'http://localhost:4001/api' // https://botapi.hypernova.uz/api
+      url: 'https://bot.exabit.uz/api' // https://botapi.hypernova.uz/api
     }
   },
 
